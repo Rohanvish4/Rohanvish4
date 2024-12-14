@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, there 👋
+
+I'm Rohan , An enthusiastic android app developer , 2nd year B.tech undergraduate persuing from KNIT, Sultanpur.
 
 <!--
 **Rohanvish4/Rohanvish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
