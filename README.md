@@ -1,6 +1,6 @@
 ## Hello, there 👋
 
-I'm Rohan, a B.Tech undergrad at KNIT Sultanpur, and I'm always looking to learn more about Android app development." 
+I'm Rohan, a B.Tech undergrad at KNIT Sultanpur, and I'm always looking to learn more about app development." 
 
 <!--
 **Rohanvish4/Rohanvish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
