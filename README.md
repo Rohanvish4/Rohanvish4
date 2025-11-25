@@ -49,20 +49,8 @@ I'm currently on a mission to make applications that don't make users want to th
 - **Problem Solving:** Data Structures & Algorithms, Competitive Programming
 - **Secret Skills:** Turning chai into code, professional procrastination, debugging without Stack Overflow (just kidding!)
 
-## 💻 DSA Journey
 
-<div align="center">
-  
-| Platform | Problems Solved | Focus Areas |
-|:---:|:---:|:---:|
-| LeetCode | 150+ | Dynamic Programming, Arrays, Trees |
-| GeeksforGeeks | 100+ | Graph Algorithms, Recursion |
-| Codeforces | 50+ | Competitive Programming |
-| Others | Various | Practice & Learning |
 
-</div>
-
-**Total: 300+ problems solved and counting!** 🎯
 
 ## 🛠️ Currently Engineering
 
